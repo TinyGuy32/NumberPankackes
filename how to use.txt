@@ -1,0 +1,8 @@
+1X:            pushes x onto the stack
+2               coppys the top value and pushes it onto the stack
+3               flips the stack
+4               pushes user input to the stack
+5               adds the two top values
+6               pops and prints the top value of the stack
+[                sets the start of a loop
+]                goes to the begining of the loop if the top value of the stack is 0
